@@ -7,7 +7,7 @@ There was also a Spring Boot backend acting in the middle to serve the mp3s, whi
 
 # Demo
 
-![](demo.gif =360x600)
+![](demo.gif)
 
 # Run
 `$ react-native run-android`
